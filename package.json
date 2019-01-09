@@ -1,6 +1,6 @@
 {
   "name": "seank",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal npm card for Sean Kelly (@seank)",
   "main": "dist/card.js",
   "unpkg": "index.html",
